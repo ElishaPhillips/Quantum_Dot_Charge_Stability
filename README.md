@@ -12,7 +12,7 @@ The lines represent Coloumb barriers, sweeping along G3 manipulates electrochemi
 
 Double Dot Stability:
 
-*As C<sub><sub>m</sub></sub> shifts from 0 to C<sub><sub>m</sub></sub>/C<sub><sub>1,2</sub></sub> through adjusting G4
+*As C<sub><sub>m</sub></sub> shifts from 0 to C<sub><sub>m</sub></sub>/C<sub><sub>1,2</sub></sub> = 1 through adjusting G4 voltage:*
 
 ![D1](https://github.com/ElishaPhillips/Quantum_Dot_Charge_Stability/blob/main/Graphs/D1.png)
 ![D2](https://github.com/ElishaPhillips/Quantum_Dot_Charge_Stability/blob/main/Graphs/D2.png)
