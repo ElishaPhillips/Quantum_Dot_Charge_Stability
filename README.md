@@ -6,7 +6,7 @@ Analyzing Charge Stability in Si Quantum Dots
 
 *Data from: https://doi.org/10.5281/zenodo.4478855*
 
-#### Pt. I Recreating the charge stability graphs from Fig. 2 in reference paper:
+#### Pt. I 
 
 Initial Data Plots, from Fig. 2:
 
