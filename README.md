@@ -9,6 +9,7 @@ Analyzing Charge Stability in Si Quantum Dots
 #### Pt. I Recreating the charge stability graphs from Fig. 2 in reference paper:
 
 Initial Data Plots, from Fig. 2:
+
 *Using the included Figure_2.py as reference for important parameters, such as removing data offsets and converting current to pA, saved in 3400 dpi*
 
 The lines represent Coloumb barriers - sweeping along G3 manipulates electrochemical pot. of Si quantum dot with G2 and G4 manipulating the tunneling barriers:
