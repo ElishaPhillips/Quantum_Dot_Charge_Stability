@@ -6,7 +6,13 @@ Analyzing Charge Stability in Si Quantum Dots
 
 *Data from: https://doi.org/10.5281/zenodo.4478855*
 
-The lines represent Coloumb barriers, sweeping along G3 manipulates electrochemical pot. of Si quantum dot with G2 and G4 manipulating the tunneling barriers:
+#### Pt. I Recreating the charge stability graphs from Fig. 2 in reference paper:
+
+Initial Data Plots, from Fig. 2:
+*Using the included Figure_2.py as reference for important parameters, such as removing data offsets and converting current to pA, saved in 3400 dpi*
+
+The lines represent Coloumb barriers - sweeping along G3 manipulates electrochemical pot. of Si quantum dot with G2 and G4 manipulating the tunneling barriers:
+
 ![D5+6](https://github.com/ElishaPhillips/Quantum_Dot_Charge_Stability/blob/6679d233628fa045aa92d779668f77d3ae79c5d0/Graphs/D56.png)
 *Each line represents the transmission of a single electron*
 
