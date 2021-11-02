@@ -1,6 +1,8 @@
 # Quantum Dot Charge Stability
 Analyzing Charge Stability in Si Quantum Dots
 
+{% include D2-3d.a.html %}
+
 #### Reference:
 [Qubits made by advanced semiconductor manufacturing](https://arxiv.org/abs/2101.12650#)
 
